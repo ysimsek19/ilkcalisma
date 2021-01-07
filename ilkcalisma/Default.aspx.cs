@@ -60,9 +60,9 @@ namespace ilkcalisma
 			int y = 20;
 			int z = x + y;
 			int a = z + 10;
-			int b = a + 10;
+			int d = a + 10;
 
-			Response.Write(b);
+			Response.Write(d);
 
 
 
