@@ -62,7 +62,7 @@ namespace ilkcalisma
 			int a = z + 10;
 			int b = a + 10;
 
-			Response.Write(z);
+			Response.Write(b);
 
 
 
